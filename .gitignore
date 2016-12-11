@@ -36,3 +36,4 @@ overridedb.*
 .factorypath
 dump.rdb
 transaction-logs
+/Market_Basket_Analysis/target/
