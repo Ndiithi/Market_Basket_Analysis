@@ -17,7 +17,7 @@ import javax.ws.rs.PUT;
 /**
  * REST Web Service
  *
- * @author towers
+ * @author Duncan
  */
 @Path("stock")
 public class stock {
